@@ -1,4 +1,4 @@
-## CAMBIOS GENERALES:
+## CAMBIOS GENERALES
 - Curva de nivel corregida
 
 - Todos los entrenadores tienen equipos mejorados
@@ -66,7 +66,7 @@
 
 <br>
 
-## CAMBIOS IMPORTANTES PARA HACER LINEAL EL JUEGO:
+## CAMBIOS IMPORTANTES PARA HACER LINEAL EL JUEGO
 - La guarida del Team Rocket está bloqueada hasta vencer a Erika
 
 - El snorlax de Azulona se ha cambiado por un desprendimiento de rocas
@@ -79,7 +79,7 @@
 
 <br>
 
-## OBJETOS EQUIPABLES INTRODUCIDOS Y/O MEJORADOS:
+## OBJETOS EQUIPABLES INTRODUCIDOS Y/O MEJORADOS
 - Pañuelo Seda (+20%) -> Ruta 1
 - Polvo Plata (+20%) -> Bosque Verde
 - Piedra Dura (+20%) -> Monte Moon
@@ -105,7 +105,7 @@
 
 <br>
 
-## LOCALIZACIÓN DE MTS:
+## LOCALIZACIÓN DE MTS
 - MT01(Puño Certero) -> Calle Victoria
 - MT02(Garra Dragón) -> Silph S.A.
 - MT03(Hidropulso) -> Ciudad Celeste
@@ -159,7 +159,7 @@
 
 <br>
 
-## TUTORES DE MOVIMIENTOS:
+## TUTORES DE MOVIMIENTOS
 - Megapatada -> Ruta 4
 - Megapuño -> Ruta 4
 - Movimiento Sísmico -> Ciudad Plateada
@@ -178,3 +178,20 @@
 - Planta Feroz -> Meseta Añil
 - Anillo Ígneo -> Meseta Añil
 - Hidrocañón -> Meseta Añil
+
+<br>
+
+## NIVELES DE LOS JEFES
+- Brock: 14
+- Misty: 23
+- Surge: 30
+- Erika: 38
+- Koga: 46
+- Sabrina: 50
+- Blaine: 54
+- Giovanni: 57
+- Lorelei: 60
+- Bruno: 61
+- Agatha: 62
+- Lance: 63
+- Azul: 65
