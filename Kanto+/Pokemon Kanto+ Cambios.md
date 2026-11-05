@@ -64,6 +64,7 @@
 
 - Algunos objetos de centro comercial se han cambiado
 
+<br>
 
 ## CAMBIOS IMPORTANTES PARA HACER LINEAL EL JUEGO:
 - La guarida del Team Rocket está bloqueada hasta vencer a Erika
@@ -76,6 +77,7 @@
 
 - La salida a la ruta 21 desde Pueblo Paleta está bloqueada por rocas
 
+<br>
 
 ## OBJETOS EQUIPABLES INTRODUCIDOS Y/O MEJORADOS:
 - Pañuelo Seda (+20%) -> Ruta 1
@@ -101,6 +103,7 @@
 - Periscopio -> Silph S.A.
 - Cascabel Concha (1/6) -> Ruta 12
 
+<br>
 
 ## LOCALIZACIÓN DE MTS:
 - MT01(Puño Certero) -> Calle Victoria
@@ -154,6 +157,7 @@
 - MT49(Robo) -> Guarida Rocket
 - MT50(Sofoco) -> Calle Victoria
 
+<br>
 
 ## TUTORES DE MOVIMIENTOS:
 - Megapatada -> Ruta 4
