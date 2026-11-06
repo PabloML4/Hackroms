@@ -101,7 +101,7 @@
 - Cinta Aguante -> Ruta 8
 - Polvo Metálico -> Ruta 16
 - Periscopio -> Silph S.A.
-- Cascabel Concha (1/6) -> Ruta 12
+- Cascabel Concha -> Ruta 12
 
 <br>
 
